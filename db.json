@@ -5,10 +5,10 @@
     {"name":"Blaga alkoholna", "id":3},
     {"name":"Žestoka alkoholna", "id":4}],
   
-   "Bezalkoholna negazirana" : [
-           { "id": 1, "name": "Fructal Naranča" },
-           { "id": 2, "name": "Juicy Višnja" },
-           { "id": 3, "name": "Jamnica Brusnica" }],
+   "Bezalkoholnanegazirana" : [
+           { "id": 1, "name": "FructalNaranča" },
+           { "id": 2, "name": "JuicyVišnja" },
+           { "id": 3, "name": "JamnicaBrusnica" }],
    "Bezalkoholna gazirana" :  [
            { "id": 1, "name": "Coca-Cola" },
            { "id": 2, "name": "Cockta" },
