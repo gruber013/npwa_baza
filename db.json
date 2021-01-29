@@ -1,10 +1,24 @@
-[
-  {
-    "name": "darkcokolada",
-    "id": 1
-  },
-  {
-    "name": "browncokolada",
-    "id": 2
-  }
-]
+{
+  "Pića": [
+    {"name":"Bezalkoholna negazirana", "id":1},
+    {"name":"Bezalkoholna gazirana", "id":2},
+    {"name":"Blaga alkoholna", "id":3},
+    {"name":"Žestoka alkoholna", "id":4}],
+  
+   "Bezalkoholna negazirana" : [
+           { "id": 1, "name": "Fructal Naranča" },
+           { "id": 2, "name": "Juicy Višnja" },
+           { "id": 3, "name": "Jamnica Brusnica" }],
+   "Bezalkoholna gazirana" :  [
+           { "id": 1, "name": "Coca-Cola" },
+           { "id": 2, "name": "Cockta" },
+           { "id": 3, "name": "Fanta" }],
+   "Blaga alkoholna" :  [
+           { "id": 1, "name": "Heineken" },
+           { "id": 2, "name": "Graševina"},
+           { "id": 3, "name": "Staropramen"}],
+   "Žestoka alkoholna" :  [
+           { "id": 1, "name": "Jack Daniels" },
+           { "id": 2, "name": "Stock" },
+           { "id": 3, "name": "Jagermeister" }]
+}
