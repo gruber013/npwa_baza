@@ -1,24 +1,24 @@
 {
-  "Drinks": [
-    {"name":"Bezalkoholna negazirana", "id":1},
-    {"name":"Bezalkoholna gazirana", "id":2},
-    {"name":"Blaga alkoholna", "id":3},
-    {"name":"Žestoka alkoholna", "id":4}],
+  "Food": [
+    {"name":"Chips", "id":1},
+    {"name":"Chocolate", "id":2},
+    {"name":"Nuts", "id":3},
+    {"name":"Soup", "id":4}],
   
-   "Bezalkoholnanegazirana" : [
-           { "id": 1, "name": "FructalNaranča" },
-           { "id": 2, "name": "JuicyVišnja" },
-           { "id": 3, "name": "JamnicaBrusnica" }],
-   "Bezalkoholna gazirana" :  [
-           { "id": 1, "name": "Coca-Cola" },
-           { "id": 2, "name": "Cockta" },
-           { "id": 3, "name": "Fanta" }],
-   "Blaga alkoholna" :  [
-           { "id": 1, "name": "Heineken" },
-           { "id": 2, "name": "Graševina"},
-           { "id": 3, "name": "Staropramen"}],
-   "Žestoka alkoholna" :  [
-           { "id": 1, "name": "Jack Daniels" },
-           { "id": 2, "name": "Stock" },
-           { "id": 3, "name": "Jagermeister" }]
+   "Chips" : [
+           { "id": 1, "name": "Paprika" },
+           { "id": 2, "name": "Salted" },
+           { "id": 3, "name": "Onion" }],
+   "Chocolate" :  [
+           { "id": 1, "name": "White" },
+           { "id": 2, "name": "Dark" },
+           { "id": 3, "name": "Milk" }],
+   "Nuts" :  [
+           { "id": 1, "name": "Hazelnut" },
+           { "id": 2, "name": "Almond"},
+           { "id": 3, "name": "Pistachios"}],
+   "Soup" :  [
+           { "id": 1, "name": "Tomato" },
+           { "id": 2, "name": "Beef" },
+           { "id": 3, "name": "Mushroom" }]
 }
